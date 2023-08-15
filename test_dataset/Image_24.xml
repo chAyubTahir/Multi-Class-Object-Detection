@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1700_Images_Nivedita</folder>
+	<filename>Image_24.jpeg</filename>
+	<path>/home/nivedita/Axxessio/nivedita.pagar/Dataset/1700_Images_Nivedita/Image_24.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1704</width>
+		<height>2272</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>9</ymin>
+			<xmax>1704</xmax>
+			<ymax>1582</ymax>
+		</bndbox>
+	</object>
+</annotation>

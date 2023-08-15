@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Image_14.jpeg</filename>
+	<path>/home/muhammad/Downloads/Latest_Dataset_Updated/images/test/Image_14.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2640</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1441</xmin>
+			<ymin>367</ymin>
+			<xmax>2640</xmax>
+			<ymax>1754</ymax>
+		</bndbox>
+	</object>
+</annotation>
