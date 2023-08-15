@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Image_4857.jpeg</filename>
+	<path>/home/muhammad/Downloads/Latest_Dataset_Updated/images/train/Image_4857.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>webcam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>863</ymin>
+			<xmax>1976</xmax>
+			<ymax>2185</ymax>
+		</bndbox>
+	</object>
+</annotation>
